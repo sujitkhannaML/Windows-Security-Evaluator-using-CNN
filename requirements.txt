@@ -1,0 +1,14 @@
+pandas
+numpy
+WMI
+experta
+password-strength
+pytest
+plotly==4.8.1
+jupyter
+keras
+tensorflow
+sklearn
+seaborn
+psutil
+

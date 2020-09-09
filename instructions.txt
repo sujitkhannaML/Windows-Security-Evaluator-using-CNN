@@ -1,0 +1,14 @@
+# follow the below instructions to execute the scripts
+# Please run all the commands on the windows command line as the ADMINISTRATOR
+
+# Installing python 3.7 requirements
+pip3.7 install -r requirements.txt
+
+
+# Executing the CNN model for evaluating the windows os security "run.py"
+py -3.7 run.py
+
+
+# Executing the analysis Jupiter notebook containing the hyper-parameter
+# optimization results, classification reports and plots on training regime
+jupyter notebook CNN Multiclass Classification .ipynb
